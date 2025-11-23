@@ -1,12 +1,7 @@
 # **Ex.No.4 – **
 
-# **Generate the Prompt and Evaluate for Following Prompt Types –
+# **Generate the Prompt and Evaluate for Following Prompt Types – Comparative Analysis Prompt – Experiential Perspective Prompt – Everyday Functioning Prompts – Universal Prompt Structures – Prompt Refinements – Prompt Size Limitations**
 
-Comparative Analysis Prompt – Experiential Perspective Prompt –
-Everyday Functioning Prompts – Universal Prompt Structures –
-Prompt Refinements – Prompt Size Limitations**
-
-### **DATE:**
 
 ### **REGISTER NUMBER : 212222210021**
 
